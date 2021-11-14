@@ -1,8 +1,10 @@
-package com.videocall.avideochat;
+package com.videocall.avideochat.screens;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.videocall.avideochat.R;
 
 public class MainActivity extends AppCompatActivity {
 
