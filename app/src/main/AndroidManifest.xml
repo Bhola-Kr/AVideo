@@ -20,6 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".screens.MainActivity"></activity>
+        <activity android:name=".screens.LoginActivity"></activity>
     </application>
 
 </manifest>

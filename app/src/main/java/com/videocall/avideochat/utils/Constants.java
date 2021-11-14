@@ -1,4 +1,4 @@
-package com.videocall.avideochat.utility;
+package com.videocall.avideochat.utils;
 
 public class Constants {
 
